@@ -184,7 +184,7 @@ Before you can go off putting that script that someone wrote onto every game obj
 
 &nbsp;
 
-After checking for the updates, we want to confirm and actually download those updates. GitHub Desktop knows exactly what we want, so the "Fetch" button automatically changes to the "Pull" button. Click that, and all the changes are finally downloaded to your computer. Phew!
+After checking for the updates, we want to confirm and actually download those updates. GitHub Desktop knows exactly what we want, so the "Fetch" button automatically changes to the "Pull" button. Click that, and all the changes are finally downloaded to your computer. Whew!
 
 ![pull][last pull]
 
