@@ -3,10 +3,32 @@
 ## Contents
 
 ### [Downloading and opening your own copy of the project][section 1]
+
+###### [Fork from GitHub.com][heading 1]
+
+###### [Using GitHub Desktop][heading 2]
+
+###### [Opening the project in Unity][heading 3]
+
 ### [Making changes in your copy of the project and sending them to the master project][section 2]
+
+###### [Commiting and pushing changes with GitHub Desktop][heading 4]
+
+###### [Creating a pull request][heading 5]
+
 ### [Updating your copy of the project with changes that other people have made][section 3]
 
+###### [Checking changes on GitHub.com][heading 6]
+
+###### [Creating a pull request][heading 7]
+
+###### [Downloading the changes with GitHub Desktop][heading 8]
+
+---
+
 ## Downloading and opening your own copy of the project
+
+#### Fork from GitHub.com
 
 First thing's first, you need to make sure you have a GitHub account. So if you aren't already logged into an account when reading this, go ahead and do that now.
 
@@ -17,6 +39,8 @@ Now, you'll see a button there, labelled "Fork". If you click on that, you will 
 ![fork][fork]
 
 &nbsp;
+
+#### Using GitHub Desktop
 
 Now that the project copy is in your account, you want to download it so you can work on it. To do so, you first want to install GitHub Desktop from https://desktop.github.com/
 
@@ -33,6 +57,8 @@ Next, you need to "clone" or download the project from your account, using the b
 ![clone button][clone 1] ![alt clone button][clone 2] ![clone menu][clone 3]
 
 &nbsp;
+
+#### Opening the project in Unity
 
 Now you can open the project in Unity. To do so, launch Unity and at the project selection screen, click on "Open".
 
@@ -52,9 +78,13 @@ Fun fact: When you launch it the first time, it will automatically create some e
 
 &nbsp;
 
+---
+
 ## Making changes in your copy of the project and sending them to the master project
 
 As you are working on the project, you will want to send your work to the rest of the group. It's a good idea to do so at regular intervals so everyone stays on the same page in the project! But don't worry about pushing every little change you make to the original project right away.
+
+#### Commiting and pushing changes with GitHub Desktop
 
 First you of course need to make some changes to the project before you can send us anything. In this tutorial, I've created an empty script called Example.cs inside the Scripts folder.
 
@@ -76,7 +106,11 @@ Now that you are "committed" to the changes you've made, you need to "push" or u
 
 &nbsp;
 
-And finally, you can see the changes you've made in your project on GitHub.com. But recall that you are working with a copy of the project, not the original project. You should see a message saying that you are some number of commits ahead of the origin (here, the "origin" is the original project that yours is "forked" or copied from). To send your changes to all of us, you need to create a "Pull Request" which means you are requesting that we "pull" your changes into the original project.
+And finally, you can see the changes you've made in your project on GitHub.com.
+
+#### Creating a pull request
+
+But recall that you are working with a copy of the project, not the original project. You should see a message saying that you are some number of commits ahead of the origin (here, the "origin" is the original project that yours is "forked" or copied from). To send your changes to all of us, you need to create a "Pull Request" which means you are requesting that we "pull" your changes into the original project.
 
 ![pull request][pull]
 
@@ -92,9 +126,13 @@ After that you wait for one of the co-chairs of the team to review the changes y
 
 &nbsp;
 
+---
+
 ## Updating your copy of the project with changes that other people have made
 
 Sometimes, while working on the project in Unity, you will realize that you aren't the only one that is working on it. When this happens, you will want to check GitHub.com to see if anyone has made any changes. And you want to keep up-to-date so you can use the stuff that other people have made (or complain about it) right away! (It may also cause conflicts when you go to pull request and your copy is not up-to-date with the original project, though it should usually be okay depending on what is changed)
+
+#### Checking changes on GitHub.com
 
 So to update your project copy, first go to it on GitHub.com. You'll see a message that says you are some number of commits behind the origin. Instead of making a pull request right away to "pull" the commits from the origin into your project, it's a good idea to click on "compare" first.
 
@@ -116,6 +154,8 @@ If that text is not there, you need to manually swap the two account names in th
 
 Now you can finally see the changes! If they aren't important or relevant to you, you can safely ignore them, but it is a good idea to check in often. And if you aren't sure whether it is something you need or not, you're probably better off updating!
 
+#### Creating a pull request
+
 So to actually bring the changes into your project, you use a pull request again! Except this time, you're pulling from the original project, instead of the other way around.
 
 ![reverse pull request][reverse pull]
@@ -134,7 +174,11 @@ Now you need to merge the pull request. This is what the co-chairs do when you m
 
 &nbsp;
 
-And your project is now updated on GitHub.com. But before you can go off putting that script that someone wrote onto every game object in the scene in Unity, you need to update your local files. So now we open up GitHub Desktop once again, and we use the handy "Fetch" button. This checks to see if there have been any changes to the project on GitHub.com.
+And your project is now updated on GitHub.com.
+
+#### Downloading the changes with GitHub Desktop
+
+But before you can go off putting that script that someone wrote onto every game object in the scene in Unity, you need to update your local files. So now we open up GitHub Desktop once again, and we use the handy "Fetch" button. This checks to see if there have been any changes to the project on GitHub.com.
 
 ![fetch][fetch]
 
@@ -147,6 +191,8 @@ After checking for the updates, we want to confirm and actually download those u
 &nbsp;
 
 It may all seem like a long and confusing process now, but let it settle for a bit and you'll be developing games like a pro.
+
+---
 
 [fork]: https://raw.githubusercontent.com/adjelardin/AVC_CompSci_GitHub_Tutorial/master/GitHub%20Demo/1-Fork.png
 [desktop]: https://raw.githubusercontent.com/adjelardin/AVC_CompSci_GitHub_Tutorial/master/GitHub%20Demo/2-Desktop.png
