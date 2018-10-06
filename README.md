@@ -110,7 +110,7 @@ And finally, you can see the changes you've made in your project on GitHub.com.
 
 #### Creating a pull request
 
-But recall that you are working with a copy of the project, not the original project. You should see a message saying that you are some number of commits ahead of the origin (here, the "origin" is the original project that yours is "forked" or copied from). To send your changes to all of us, you need to create a "Pull Request" which means you are requesting that we "pull" your changes into the original project.
+Now recall that you are working with a copy of the project, not the original project. You should see a message saying that you are some number of commits ahead of the origin (here, the "origin" is the original project that yours is "forked" or copied from). To send your changes to all of us, you need to create a "Pull Request" which means you are requesting that we "pull" your changes into the original project.
 
 ![pull request][pull]
 
@@ -156,7 +156,7 @@ Now you can finally see the changes! If they aren't important or relevant to you
 
 #### Creating a pull request
 
-So to actually bring the changes into your project, you use a pull request again! Except this time, you're pulling from the original project, instead of the other way around.
+So to actually bring the changes into your project, you use a pull request again. Except this time, you're pulling from the original project, instead of the other way around.
 
 ![reverse pull request][reverse pull]
 
@@ -178,7 +178,7 @@ And your project is now updated on GitHub.com.
 
 #### Downloading the changes with GitHub Desktop
 
-But before you can go off putting that script that someone wrote onto every game object in the scene in Unity, you need to update your local files. So now we open up GitHub Desktop once again, and we use the handy "Fetch" button. This checks to see if there have been any changes to the project on GitHub.com.
+Before you can go off putting that script that someone wrote onto every game object in the scene in Unity, you need to update your local files. So now we open up GitHub Desktop once again, and we use the handy "Fetch" button. This checks to see if there have been any changes to the project on GitHub.com.
 
 ![fetch][fetch]
 
