@@ -2,9 +2,9 @@
 
 ## Contents
 
-### Downloading and opening your own copy of the project
-### Making changes in your copy of the project and sending them to the master project
-### Updating your copy of the project with changes that other people have made
+### [Downloading and opening your own copy of the project][section 1]
+### [Making changes in your copy of the project and sending them to the master project][section 2]
+### [Updating your copy of the project with changes that other people have made][section 3]
 
 ## Downloading and opening your own copy of the project
 
@@ -169,3 +169,6 @@ It may all seem like a long and confusing process now, but let it settle for a b
 [fetch]: https://raw.githubusercontent.com/adjelardin/AVC_CompSci_GitHub_Tutorial/master/GitHub%20Demo/18-Fetch.png
 [last pull]: https://raw.githubusercontent.com/adjelardin/AVC_CompSci_GitHub_Tutorial/master/GitHub%20Demo/19-Pull.png
 
+[section 1]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#downloading-and-opening-your-own-copy-of-the-project
+[section 2]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#making-changes-in-your-copy-of-the-project-and-sending-them-to-the-master-project
+[section 3]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#updating-your-copy-of-the-project-with-changes-that-other-people-have-made
