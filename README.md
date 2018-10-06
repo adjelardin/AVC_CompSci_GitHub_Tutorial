@@ -215,6 +215,14 @@ It may all seem like a long and confusing process now, but let it settle for a b
 [fetch]: https://raw.githubusercontent.com/adjelardin/AVC_CompSci_GitHub_Tutorial/master/GitHub%20Demo/18-Fetch.png
 [last pull]: https://raw.githubusercontent.com/adjelardin/AVC_CompSci_GitHub_Tutorial/master/GitHub%20Demo/19-Pull.png
 
-[section 1]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#downloading-and-opening-your-own-copy-of-the-project
-[section 2]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#making-changes-in-your-copy-of-the-project-and-sending-them-to-the-master-project
-[section 3]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#updating-your-copy-of-the-project-with-changes-that-other-people-have-made
+[section 1]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#downloading-and-opening-your-own-copy-of-the-project-1
+[section 2]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#making-changes-in-your-copy-of-the-project-and-sending-them-to-the-master-project-1
+[section 3]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#updating-your-copy-of-the-project-with-changes-that-other-people-have-made-1
+[heading 1]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#fork-from-githubcom-1
+[heading 2]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#using-github-desktop-1
+[heading 3]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#opening-the-project-in-unity-1
+[heading 4]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#commiting-and-pushing-changes-with-github-desktop-1
+[heading 5]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#creating-a-pull-request-1
+[heading 6]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#checking-changes-on-githubcom-1
+[heading 7]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#creating-a-pull-request-2
+[heading 8]: https://github.com/adjelardin/AVC_CompSci_GitHub_Tutorial#downloading-the-changes-with-github-desktop-1
