@@ -46,7 +46,7 @@ Now that the project copy is in your account, you want to download it so you can
 
 (Note: if you choose to use Git, the command line version, I assume you are experienced and/or motivated enough to learn that on your own. This tutorial will only use GitHub Desktop)
 
-After installing it, open it from your desktop:
+After installing it, open it from your desktop and log into your GitHub account.
 
 ![desktop][desktop]
 
